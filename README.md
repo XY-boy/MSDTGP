@@ -15,8 +15,8 @@ This is the official implementation of our paper "Satellite Video Super-resoluti
  ## Training
  ### Data directory structure
 trainset--  
-&ensp;|
-&ensp;train--  
+&emsp;|
+&emsp;train--  
 &emsp;|LR4x---  
 
  
