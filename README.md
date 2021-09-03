@@ -13,6 +13,9 @@ This is the official implementation of our paper "Satellite Video Super-resoluti
  #### More details can be found in our paper!
  
  ## Training
+```
+python main.py
+```
  ### Data directory structure
 trainset--  
 &emsp;|&ensp;train--  
@@ -22,6 +25,24 @@ trainset--
 &emsp;&emsp;&emsp;| 099.png  
 &emsp;&emsp;|&ensp;GT---   
 &emsp;&emsp;|&ensp;Bicubic4x--- 
+
+testset--  
+&emsp;|&ensp;eval--  
+&emsp;&emsp;|&ensp;LR4x---  
+&emsp;&emsp;&emsp;| 000.png  
+&emsp;&emsp;&emsp;| ···.png  
+&emsp;&emsp;&emsp;| 099.png  
+&emsp;&emsp;|&ensp;GT---   
+&emsp;&emsp;|&ensp;Bicubic4x--- 
+
+## Test
+```
+python eval.py
+```
+
+## Citation
+
+
 
  
 
