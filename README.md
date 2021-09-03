@@ -5,7 +5,7 @@ This is the official implementation of our paper "Satellite Video Super-resoluti
 The network structure is as follows:  
  ![image](/img/network.png)
  We conducted a ×4 simulation experiment on the jilin-1 satellite data, and the results are as follows:  
- ![image](/img/res1.png)
+ ![image](/img/res1png.png)
  
 
 
