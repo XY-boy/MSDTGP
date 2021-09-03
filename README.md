@@ -11,6 +11,10 @@ This is the official implementation of our paper "Satellite Video Super-resoluti
  ### Qualitive results
  ![image](/img/res2.png)
  #### More details can be found in our paper!
+ ## Environment
+ * CUDA 10.0
+ * pytorch 1.x
+ * build [DCNv2](https://github.com/CharlesShang/DCNv2)
  
  ## Training
 ```
