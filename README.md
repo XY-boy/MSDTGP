@@ -12,5 +12,13 @@ This is the official implementation of our paper "Satellite Video Super-resoluti
  ![image](/img/res2.png)
  #### More details can be found in our paper!
  
+ ## Training
+ ### Data directory structure
+trainset--
+&nbsp;|
+&nbsp;train--
+&nbsp;&nbsp;|LR4x---
+
+ 
 
 
