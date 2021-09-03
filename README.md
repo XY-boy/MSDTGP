@@ -14,10 +14,10 @@ This is the official implementation of our paper "Satellite Video Super-resoluti
  
  ## Training
  ### Data directory structure
-trainset--
+trainset--  
 &nbsp;|
-&nbsp;train--
-&nbsp;&nbsp;|LR4x---
+&nbsp;train--  
+&nbsp;&nbsp;|LR4x---  
 
  
 
