@@ -50,7 +50,7 @@ If you find our work helpful, please cite:
 ```
 
 ## Acknowledgement
-Our work is built upon [RBPN](https://github.com/alterzero/RBPN-PyTorch) and [TDAN] (https://github.com/YapengTian/TDAN-VSR-CVPR-2020).  
+Our work is built upon [RBPN](https://github.com/alterzero/RBPN-PyTorch) and [TDAN](https://github.com/YapengTian/TDAN-VSR-CVPR-2020).  
 Thanks to the author for the source code !
 
 
