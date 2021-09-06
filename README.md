@@ -16,11 +16,10 @@ This is the official implementation of our paper "Satellite Video Super-resoluti
  * pytorch 1.x
  * build [DCNv2](https://github.com/CharlesShang/DCNv2)
  
- ## Training
-```
-python main.py
-```
- ### Data directory structure
+ ## Dataset Preparation
+ Please download our dataset [Jilin-189]()
+ 
+### Data directory structure
 trainset--  
 &emsp;|&ensp;train--  
 &emsp;&emsp;|&ensp;LR4x---  
@@ -38,6 +37,11 @@ testset--
 &emsp;&emsp;&emsp;| 099.png  
 &emsp;&emsp;|&ensp;GT---   
 &emsp;&emsp;|&ensp;Bicubic4x--- 
+ 
+ ## Training
+```
+python main.py
+```
 
 ## Test
 ```
