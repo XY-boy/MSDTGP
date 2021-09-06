@@ -17,7 +17,8 @@ This is the official implementation of our paper "Satellite Video Super-resoluti
  * build [DCNv2](https://github.com/CharlesShang/DCNv2)
  
  ## Dataset Preparation
- Please download our dataset [Jilin-189](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) Code:31ct
+ Please download our dataset [Jilin-189](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) Code:31ct  
+ You can also train your dataset following the directory sturture below!
  
 ### Data directory structure
 trainset--  
