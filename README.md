@@ -1,6 +1,6 @@
 # Satellite Video Super-resolution via Multi-Scale Deformable Convolution Alignment and Temporal Grouping Projection (TGRS)
 ## Introuction
-This is the official implementation of our paper "Satellite Video Super-resolution via Multi-Scale Deformable Convolution Alignment and Temporal Grouping Projection" published on IEEE Transactions on Geoscience and Remote Sensing (**TGRS**).  
+This is the official implementation of our paper [Satellite Video Super-resolution via Multi-Scale Deformable Convolution Alignment and Temporal Grouping Projection](https://ieeexplore.ieee.org/document/9530280) published on IEEE Transactions on Geoscience and Remote Sensing (**TGRS**).  
 
 ### The network structure  
  ![image](/img/network.png)
@@ -52,7 +52,8 @@ python eval.py
 ## Citation
 If you find our work helpful, please cite:  
 ```
-@ARTICLE{9530280,  author={Xiao, Yi and Su, Xin and Yuan, Qiangqiang and Liu, Denghong and Shen, Huanfeng and Zhang, Liangpei},  
+@ARTICLE{9530280,  
+author={Xiao, Yi and Su, Xin and Yuan, Qiangqiang and Liu, Denghong and Shen, Huanfeng and Zhang, Liangpei},  
 journal={IEEE Transactions on Geoscience and Remote Sensing},  
 title={Satellite Video Super-Resolution via Multiscale Deformable Convolution Alignment and Temporal Grouping Projection},   
 year={2021},  
