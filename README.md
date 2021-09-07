@@ -52,7 +52,14 @@ python eval.py
 ## Citation
 If you find our work helpful, please cite:  
 ```
-@ARTICLE{9530280,  author={Xiao, Yi and Su, Xin and Yuan, Qiangqiang and Liu, Denghong and Shen, Huanfeng and Zhang, Liangpei},  journal={IEEE Transactions on Geoscience and Remote Sensing},   title={Satellite Video Super-Resolution via Multiscale Deformable Convolution Alignment and Temporal Grouping Projection},   year={2021},  volume={},  number={},  pages={1-19},  doi={10.1109/TGRS.2021.3107352}}
+@ARTICLE{9530280,  author={Xiao, Yi and Su, Xin and Yuan, Qiangqiang and Liu, Denghong and Shen, Huanfeng and Zhang, Liangpei},  
+journal={IEEE Transactions on Geoscience and Remote Sensing},  
+title={Satellite Video Super-Resolution via Multiscale Deformable Convolution Alignment and Temporal Grouping Projection},   
+year={2021},  
+volume={},  
+number={},  
+pages={1-19},  
+doi={10.1109/TGRS.2021.3107352}}
 ```
 
 ## Acknowledgement
