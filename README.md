@@ -57,10 +57,11 @@ author={Xiao, Yi and Su, Xin and Yuan, Qiangqiang and Liu, Denghong and Shen, Hu
 journal={IEEE Transactions on Geoscience and Remote Sensing},  
 title={Satellite Video Super-Resolution via Multiscale Deformable Convolution Alignment and Temporal Grouping Projection},   
 year={2021},  
-volume={},  
+volume={60},  
 number={},  
 pages={1-19},  
-doi={10.1109/TGRS.2021.3107352}}
+doi={10.1109/TGRS.2021.3107352}
+}
 ```
 
 ## Acknowledgement
