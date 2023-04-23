@@ -24,7 +24,6 @@ git clone https://github.com/XY-boy/MSDTGP.git
  You can also train your dataset following the directory sturture below!
  
 ### Data directory structure
-```
 trainset--  
 &emsp;|&ensp;train--  
 &emsp;&emsp;|&ensp;LR4x---  
@@ -42,7 +41,6 @@ testset--
 &emsp;&emsp;&emsp;| 099.png  
 &emsp;&emsp;|&ensp;GT---   
 &emsp;&emsp;|&ensp;Bicubic4x--- 
-```
  ## Training
 ```
 python main.py
