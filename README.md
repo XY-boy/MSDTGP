@@ -64,7 +64,7 @@ Email: xiao_yi@whu.edu.cn; Tel: (+86) 15927574475 (WeChat)
 ## Citation
 If you find our work helpful, please consider citing it:  
 ```
-@ARTICLE{9530280,  
+@ARTICLE{xiao2022msdtgp,  
 author={Xiao, Yi and Su, Xin and Yuan, Qiangqiang and Liu, Denghong and Shen, Huanfeng and Zhang, Liangpei},  
 journal={IEEE Transactions on Geoscience and Remote Sensing},  
 title={Satellite Video Super-Resolution via Multiscale Deformable Convolution Alignment and Temporal Grouping Projection},   
