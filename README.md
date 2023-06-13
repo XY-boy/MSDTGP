@@ -56,9 +56,13 @@ python eval.py
  ### Qualitive results
  ![image](/img/res2.png)
  #### More details can be found in our paper!
- 
+
+## Contact
+If you have any questions or suggestions, feel free to contact me.  
+Email: xiao_yi@whu.edu.cn; Tel: (+86) 15927574475 (WeChat)
+
 ## Citation
-If you find our work helpful, please consider to cite it:  
+If you find our work helpful, please consider citing it:  
 ```
 @ARTICLE{9530280,  
 author={Xiao, Yi and Su, Xin and Yuan, Qiangqiang and Liu, Denghong and Shen, Huanfeng and Zhang, Liangpei},  
