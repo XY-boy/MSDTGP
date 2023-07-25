@@ -60,7 +60,8 @@ python eval.py
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me.  
-Email: xiao_yi@whu.edu.cn; Tel: (+86) 15927574475 (WeChat)
+Email: xiao_yi@whu.edu.cn  
+Tel: (+86) 15927574475 (WeChat)
 
 ## Citation
 If you find our work helpful in your research, please consider citing it:  
