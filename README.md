@@ -19,13 +19,10 @@ git clone https://github.com/XY-boy/MSDTGP.git
  
  ## Dataset Preparation
  Please download our dataset in 
+ * Baidu Netdisk [Jilin-189](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) Code:31ct
+ * Zenodo: <a href="https://doi.org/10.5281/zenodo.6969604"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6969604.svg" alt="DOI"></a>
  
- Baidu Netdisk [Jilin-189](https://pan.baidu.com/s/1Y1-mS5gf7m8xSTJQPn4WZw) Code:31ct
- or 
- 
- Zenodo: <a href="https://doi.org/10.5281/zenodo.6969604"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6969604.svg" alt="DOI"></a>
- 
- You can also train your dataset following the directory sturture below!
+You can also train your dataset following the directory sturture below!
  
 ### Data directory structure
 trainset--  
