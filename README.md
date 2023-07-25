@@ -51,10 +51,10 @@ python main.py
 ```
 python eval.py
 ```
-### Quantitive results
+### Quantitative results
  ![image](/img/res1png.png)
  
- ### Qualitive results
+ ### Qualitative results
  ![image](/img/res2.png)
  #### More details can be found in our paper!
 
@@ -63,7 +63,7 @@ If you have any questions or suggestions, feel free to contact me.
 Email: xiao_yi@whu.edu.cn; Tel: (+86) 15927574475 (WeChat)
 
 ## Citation
-If you find our work helpful, please consider citing it:  
+If you find our work helpful in your research, please consider citing it:  
 ```
 @ARTICLE{xiao2022msdtgp,  
 author={Xiao, Yi and Su, Xin and Yuan, Qiangqiang and Liu, Denghong and Shen, Huanfeng and Zhang, Liangpei},  
