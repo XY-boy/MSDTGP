@@ -3,7 +3,7 @@
 
 PyTorch codes for "[Satellite Video Super-resolution via Multi-Scale Deformable Convolution Alignment and Temporal Grouping Projection](https://ieeexplore.ieee.org/abstract/document/9530280)", **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**, 2022.
 
-[Yi Xiao](https://xy-boy.github.io/), Xin Su, [Qiangqiang Yuan*](http://qqyuan.users.sgg.whu.edu.cn/), Denghong Liu, [Huanfeng Shen](https://scholar.google.com.hk/citations?user=ore_9NIAAAAJ&hl), and [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)<br>
+Authors: [Yi Xiao](https://xy-boy.github.io/), Xin Su, [Qiangqiang Yuan*](http://qqyuan.users.sgg.whu.edu.cn/), Denghong Liu, [Huanfeng Shen](https://scholar.google.com.hk/citations?user=ore_9NIAAAAJ&hl), and [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)<br>
 Wuhan University
 
 ### The network structure  
